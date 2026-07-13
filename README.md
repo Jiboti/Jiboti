@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Jaime Sousa</h1>
+<h1 align="center">Hi I'm Jaime Sousa</h1>
+'aerospace engineer in the making'
 <h3 align="center">Fourth-year (M1) engineering student at ESILV, specializing in Aerospace & Defense (Quantum track). Passionate about the aerospace and automotive sectors, I aim to apply my skills in CAD design, scientific computing and programming to contribute to high-impact technical projects</h3>
 
 <h3 align="left">Connect with me:</h3>
