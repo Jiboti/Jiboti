@@ -30,6 +30,6 @@
 | [🐦Ornithoptère](https://github.com/Jiboti/Ornithoptere) | Ornithoptère designed for yearly project | Solidworks, Matlab |
 | [🔧 Vérin Hydraulique](https://github.com/Jiboti/Verin_Hydraulique) | Design and sizing of a hydraulic cylinder assembly. | SolidWorks, CATIA |
 | [🚢 Vogue Merry](https://github.com/Jiboti/Vogue-Merry) | 3D modeling and rendering project. | Fusion 360, SolidWorks |
-| [🏜️ Alterdune](https://github.com/Jiboti/alterdune) | *(short description to complete)* | C++, C# |
+| [🏜️ Alterdune](https://github.com/Jiboti/alterdune) | Rogur Like game | C++, C# |
 | [🏠 AirBnB Notebook](https://github.com/Jiboti/AirBNB_Notebook) | Exploratory data analysis of Airbnb listings. | Python, RStudio |
 | [🔠 MotsGlissés](https://github.com/Boctuline/MotsGlisses) | Word-sliding puzzle game. | C++ |
