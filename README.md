@@ -29,7 +29,7 @@
 | [🛰️ C'space CubeSat 1U](https://github.com/Jiboti/cspace-cubesat-1u) | 1U CubeSat designed and built for the C'Space campaign (CNES / Planète Sciences). | CATIA, Fusion 360, Arduino |
 | [🐦Ornithoptère](https://github.com/Jiboti/Ornithoptere) | Ornithoptère designed for yearly project | Solidworks, Matlab |
 | [🔧 Vérin Hydraulique](https://github.com/Jiboti/Verin_Hydraulique) | Design and sizing of a hydraulic cylinder assembly. | SolidWorks, CATIA |
-| [🚢 Vogue Merry](https://github.com/Jiboti/vogue-merry) | 3D modeling and rendering project. | Fusion 360, SolidWorks |
+| [🚢 Vogue Merry](https://github.com/Jiboti/Vogue-Merry) | 3D modeling and rendering project. | Fusion 360, SolidWorks |
 | [🏜️ Alterdune](https://github.com/Jiboti/alterdune) | *(short description to complete)* | C++, C# |
 | [🏠 AirBnB Notebook](https://github.com/Jiboti/airbnb-notebook) | Exploratory data analysis of Airbnb listings. | Python, RStudio |
 | [🔠 MotsGlissés](https://github.com/Jiboti/mots-glisses) | Word-sliding puzzle game. | C++ |
