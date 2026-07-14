@@ -26,10 +26,10 @@
 
 | Project | Description | Tools |
 |---|---|---|
-| [🛰️ C'space CubeSat 1U](https://github.com/Jiboti/cspace-cubesat-1u) | 1U CubeSat designed and built for the C'Space campaign (CNES / Planète Sciences). | CATIA, Fusion 360, Arduino |
+| [🛰️ C'space CubeSat 1U](https://github.com/Jiboti/cspace-cubesat-1u) | 1U CubeSat designed and built for the C'Space campaign (CNES / Planète Sciences). | CATIA, Fusion 360, Matlab |
 | [🐦Ornithoptère](https://github.com/Jiboti/Ornithoptere) | Ornithoptère designed for yearly project | Solidworks, Matlab |
-| [🔧 Vérin Hydraulique](https://github.com/Jiboti/Verin_Hydraulique) | Design and sizing of a hydraulic cylinder assembly. | SolidWorks, CATIA |
-| [🚢 Vogue Merry](https://github.com/Jiboti/Vogue-Merry) | 3D modeling and rendering project. | Fusion 360, SolidWorks |
-| [🏜️ Alterdune](https://github.com/Jiboti/alterdune) | A turn-based roguelike RPG in C++ | C++, C# |
-| [🏠 AirBnB Notebook](https://github.com/Jiboti/AirBNB_Notebook) | Exploratory data analysis of Airbnb listings. | Python, RStudio |
+| [🔧 Vérin Hydraulique](https://github.com/Jiboti/Verin_Hydraulique) | Design and sizing of a hydraulic cylinder assembly. | CATIA V5, Excel |
+| [🚢 Vogue Merry](https://github.com/Jiboti/Vogue-Merry) | 3D modeling and rendering project. | SolidWorks |
+| [🏜️ Alterdune](https://github.com/Jiboti/alterdune) | A turn-based roguelike RPG in C++ | C++17, SFML, ImGui |
+| [🏠 AirBnB Notebook](https://github.com/Jiboti/AirBNB_Notebook) | Exploratory data analysis of Airbnb listings. | Python, scikit-learn, pandas |
 | [🔠 MotsGlissés](https://github.com/Boctuline/MotsGlisses) | Word-sliding puzzle game. | C++ |
