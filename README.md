@@ -31,5 +31,5 @@
 | [🔧 Vérin Hydraulique](https://github.com/Jiboti/Verin_Hydraulique) | Design and sizing of a hydraulic cylinder assembly. | SolidWorks, CATIA |
 | [🚢 Vogue Merry](https://github.com/Jiboti/Vogue-Merry) | 3D modeling and rendering project. | Fusion 360, SolidWorks |
 | [🏜️ Alterdune](https://github.com/Jiboti/alterdune) | *(short description to complete)* | C++, C# |
-| [🏠 AirBnB Notebook](https://github.com/Jiboti/airbnb-notebook) | Exploratory data analysis of Airbnb listings. | Python, RStudio |
+| [🏠 AirBnB Notebook](https://github.com/Jiboti/AirBNB_Notebook) | Exploratory data analysis of Airbnb listings. | Python, RStudio |
 | [🔠 MotsGlissés](https://github.com/Jiboti/mots-glisses) | Word-sliding puzzle game. | C++ |
