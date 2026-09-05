@@ -33,4 +33,4 @@
 | [🏜️ Alterdune](https://github.com/Jiboti/alterdune) | A turn-based roguelike RPG in C++ | C++17, SFML, ImGui |
 | [🏠 AirBnB Notebook](https://github.com/Jiboti/AirBNB_Notebook) | Exploratory data analysis of Airbnb listings. | Python, scikit-learn, pandas |
 | [🔠 MotsGlissés](https://github.com/Boctuline/MotsGlisses) | Word-sliding puzzle game. | C++ |
-| 🔢 Handwritten Number Recognition | Multi-digit handwritten number recognition — CNN + OpenCV pipeline with GUI. | Python, PyTorch, OpenCV |
+| 🔢 [Handwritten Number Recognition](https://github.com/Jiboti/handwritten-number-recognition) | Multi-digit handwritten number recognition — CNN + OpenCV pipeline with GUI. | Python, PyTorch, OpenCV |
