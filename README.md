@@ -26,7 +26,7 @@
 
 | Project | Description | Tools |
 |---|---|---|
-| 🔴 Finding Jezero on Earth | Earth analogs of Mars’ Jezero crater from NASA satellite data — NASA Space Apps 2026. | Google Earth Engine, Python, Streamlit |
+| [🔴 Finding Jezero on Earth](https://github.com/Jiboti/jezero-analog-finder) | Earth analogs of Mars’ Jezero crater from NASA satellite data — NASA Space Apps 2026. | Google Earth Engine, Python, Streamlit |
 | [🛰️ C'space CubeSat 1U](https://github.com/Jiboti/cspace-cubesat-1u) | 1U CubeSat designed and built for the C'Space campaign (CNES / Planète Sciences). | CATIA, Fusion 360, Matlab |
 | [🐦Ornithoptère](https://github.com/Jiboti/Ornithoptere) | Ornithoptère designed for yearly project | Solidworks, Matlab |
 | [🔧 Vérin Hydraulique](https://github.com/Jiboti/Verin_Hydraulique) | Design and sizing of a hydraulic cylinder assembly. | CATIA V5, Excel |
